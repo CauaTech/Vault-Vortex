@@ -9,8 +9,8 @@
 - Telas de Dashboard: Interface facil de usar para todos usurios.<br>
 - Sistemas de Confirmação: Confirmação de alteração em todas as etapas.<br>
 - Projeto Simples: Feito em 6 Horas de Programação.<br>
+- Responsivo: Site completamente responsivo.<br>
 
-Site
 
 <h1>Landing Page</h1>
 
