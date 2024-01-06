@@ -1,18 +1,18 @@
 # ![WebApp](https://i.imgur.com/CGN44AM.png)
 # VortexVault
 
-<table>
-<tr>
-<td>
-  Sistema simples para salvar sua senha e email, local seguro onde não pode ser acessado sem sua chave.
-</td>
-</tr>
-</table>
+<h6>Funcionalidades</h6>
+<br>
+- Login Simples: Interface intuitiva para o login de usuários.<br>
+- Design Atraente: Estética agradável e amigável para os usuários.<br>
+- Fácil Implementação: Código claro e organizado para facilitar a integração.<br>
+- Telas de Dashboard: Interface facil de usar para todos usurios.<br>
+- Sistemas de Confirmação: Confirmação de alteração em todas as etapas.<br>
+- Projeto Simples: Feito em 6 Horas de Programação.<br>
 
+Site
 
-## Site
-
-### Landing Page
+<h1>Landing Page</h1>
 
 ![](https://i.imgur.com/dhRhEcm.png)
 
